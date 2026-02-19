@@ -1,6 +1,7 @@
 // Reverse an array in JavaScript
 
-let marks=[98,87,139,456,45];
+// let marks=[98,87,139,456,45];
+let marks=["Apple","Banana","Cherry"];
 let result=[];
 
 function reverseArr(arrVal){
